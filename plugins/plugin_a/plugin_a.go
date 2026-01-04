@@ -2,9 +2,9 @@ package plugin_a
 
 import (
 	"fmt"
-	//ip "github.com/myproject/myinterface"
-	"github.com/myproject/corelib/plugins"
-	"github.com/myproject/corelib/utils"
+	//ip "github.com/gyy198/go-plugins-pro.git/myinterface"
+	"github.com/gyy198/go-plugins-pro.git/corelib/plugins"
+	"github.com/gyy198/go-plugins-pro.git/corelib/utils"
 )
 
 type PluginA struct{}

@@ -1,7 +1,7 @@
-module github.com/myproject/corelib
+module github.com/gyy198/go-plugins-pro.git/corelib
 
 go 1.22
 
-require github.com/myproject/myinterface v0.0.0
+require github.com/gyy198/go-plugins-pro.git/myinterface v0.0.0
 
-replace github.com/myproject/myinterface => ../myinterface
+replace github.com/gyy198/go-plugins-pro.git/myinterface => ../myinterface

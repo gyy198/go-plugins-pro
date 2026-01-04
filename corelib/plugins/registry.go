@@ -1,6 +1,6 @@
 package plugins
 
-import ip "github.com/myproject/myinterface"
+import ip "github.com/gyy198/go-plugins-pro.git/myinterface"
 
 var pluginMap = make(map[string]ip.Plugin)
 
