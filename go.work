@@ -1,0 +1,9 @@
+go 1.22
+
+use (
+	./cmd/app1
+	./corelib
+	./myinterface
+	./plugins/plugin_a
+	./plugins/plugin_b
+)

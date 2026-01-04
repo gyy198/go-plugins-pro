@@ -1,0 +1,17 @@
+# Go build artifacts
+bin/
+*.exe
+*.test
+*.out
+
+# Go module cache
+pkg/
+go.sum
+
+# IDE 配置
+.vscode/
+*.idea/
+
+# OS 文件
+Thumbs.db
+.DS_Store
