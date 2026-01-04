@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/gyy198/go-plugins-pro.git/corelib/plugins"
-	_ "github.com/gyy198/go-plugins-pro.git/plugins/plugin_a" // 导入插件使 init 执行
-	_ "github.com/gyy198/go-plugins-pro.git/plugins/plugin_b"
+	"github.com/gyy198/go-plugins-pro/corelib/plugins"
+	_ "github.com/gyy198/go-plugins-pro/plugins/plugin_a" // 导入插件使 init 执行
+	_ "github.com/gyy198/go-plugins-pro/plugins/plugin_b"
 )
 
 func test(v *int, ch chan int) int {
